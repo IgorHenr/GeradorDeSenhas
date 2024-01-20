@@ -1,0 +1,14 @@
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net8.0\GeradorDeSenhas.exe
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net8.0\GeradorDeSenhas.deps.json
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net8.0\GeradorDeSenhas.runtimeconfig.json
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net8.0\GeradorDeSenhas.dll
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\net8.0\GeradorDeSenhas.pdb
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.AssemblyInfoInputs.cache
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.AssemblyInfo.cs
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.csproj.CoreCompileInputs.cache
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.dll
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\refint\GeradorDeSenhas.dll
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.pdb
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\GeradorDeSenhas.genruntimeconfig.cache
+C:\Users\monal\source\repos\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\net8.0\ref\GeradorDeSenhas.dll
